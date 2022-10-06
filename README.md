@@ -1,4 +1,4 @@
-# gta Research Portal | Testing Scenarios
+# gta Research Portal | User Feedback and Testing Scenarios
 Test Window of October 1st – 15th, 2022
 
 ## Introduction
