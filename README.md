@@ -80,6 +80,6 @@ The gta Research Portal will undergo periodical updates to load newly generated/
 - Version 1.5 (NOvember/December 2022), additional holding data (reaching 100% coverage)
 
 ## How to send feedback?
-The preferred way to contribute is to send us feedbacks using this GitHub Repiository (for your bookmarks: https://github.com/gtadigital/grp-userfeedback). In order to contribute you will need to login to your GitHUb Account or to signup (https://github.com/signup, no fees). Otherwise please send your feed by mail to both Thomas Hänsli and Elisabet Jönsson Steiner.  
+The preferred way to contribute is to send us feedback using our [Issue Tracker](https://github.com/gtadigital/grp-userfeedback/issues). In order to contribute you will need to login or to [signup](https://github.com/signup) for a personal GitHUb Account (free). Another option to send us your feedback by mail to both Thomas Hänsli and Elisabet Jönsson Steiner.  
 
 
