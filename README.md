@@ -68,11 +68,10 @@ In view of future updates of the portal, your feedback regarding the search expe
 
 ## Known Issues
 Being updated frequently with updated content from the gta Archives Collection System and extended by external data sources, the public gta Research Portal undergoes steady development and regular updates. Currently, known issues include: 
-- Granularity and alignment of Archival Objects and Digital Images
-- Completeness of Archival Data and Digital Images
-- Granularity and disambiguation of Built Works and Project Data (currently preparing ingest of de-duplicated and updated information from gta Archives)
-- Density/Richness of Person and Group Data 
-- Person and Group Data are currently under revision for de-duplication and disambiguation
+- Archival Objects and Digital Images granularity and alignment [→ Discussion](https://github.com/gtadigital/grp-userfeedback/issues/2)
+- Archival Objects and Digital Images completeness [→ Discussion](https://github.com/gtadigital/grp-userfeedback/issues/3)
+- Built Works and Project Data granularity and de-duplication [→ Discussion](https://github.com/gtadigital/grp-userfeedback/issues/4)
+- Person and Group Data completeness and de-duplication (currently under revision) [→ Discussion](https://github.com/gtadigital/grp-userfeedback/issues/5)
 
 ## Roadmap
 The gta Research Portal will undergo periodical updates to load newly generated/edited daat from the gta Archives (and othersources, where needed). New and additinal data are planned be be released monthly. The durrent release roadmap is: 
