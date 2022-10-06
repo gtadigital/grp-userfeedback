@@ -43,23 +43,21 @@ The currently published Data Version (1.3) from the gta Archives include:
 ## What to test? 
 In view of future updates of the portal, your feedback regarding the search experience is vital. However, here we provide a (non-exclusive) list of test scenarios that may be helpful to explore and assess all major features of the gta Research Portal. 
  
-### Simple Search (https://researchportal-public.gta.arch.ethz.ch/resource/Start)
+### Simple Search [→ Link](https://researchportal-public.gta.arch.ethz.ch/resource/Start)
 - Does the simple search respond to my questions?
 - Does the ranking of the search results behave according to expectations?    
 - Does the simple search performance/speed 
 - Does the display of sample resources provide an initial understanding of the collection? 
 - How can the above features be improved? 
 
-### Archival Objects Search 
-(https://researchportal-public.gta.arch.ethz.ch/resource/:LandingPageCollection)
+### Archival Objects Search [→ Link](https://researchportal-public.gta.arch.ethz.ch/resource/:LandingPageCollection) 
 - Does the Archival Objects Search allow me to find what I need? 
 - Does the display of the search results allow me to understand the nature and content of the holdings
 - Does the facetting mechanism allow me to refine my search as needed? 
 - How can the search for Archival Objects be improved? 
 
 
-### Person and Group Search
-(https://researchportal-public.gta.arch.ethz.ch/resource/:LandingPagePerson, https://researchportal-public.gta.arch.ethz.ch/resource/:LandingPageGroup)
+### Person and Group Search [→ Link](https://researchportal-public.gta.arch.ethz.ch/resource/:LandingPagePerson) [→ Link](https://researchportal-public.gta.arch.ethz.ch/resource/:LandingPageGroup)
 - Does the Person and Group Search allow me to find what I need? 
 - Does the facetting mechanism allow me to refine my search as needed? 
 - How can the search for Person/Group be improved? 
