@@ -5,7 +5,7 @@ Test Window of October 1st – 15th, 2022
 
 The purpose of the gta Research Portal is to provide access to the numerous resources of the gta Archives and related Research Projects Data to a wide public/scholarly audience. The goal is to serve a broad range of search interests and strategies, tailored to the nature of its content. In view of ETH Zurich's Open Research Data strategy, the portal provides both human-interpretable and machine-processable FAIR access based on semantic technology, thus leveraging also the potential of linked open data. 
 
-The purpose of the current testing phase is to test the features, functionalities, ergonomics of use, quality and granularity of the data, as well as the performance of the current version of the gta Research Portal in view of its further development. 
+The purpose of the current testing phase is to test the features, functionalities, ergonomics of use, quality and granularity of the data, as well as the performance of the current version of the gta Research Portal in view of its further development. Please see below on [how to contribute](https://github.com/gtadigital/grp-userfeedback/blob/main/README.md#how-to-send-feedback).  
 
 
 ## Features
