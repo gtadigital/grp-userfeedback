@@ -22,9 +22,16 @@ The current Version 1.3.5 of the gta Research Portal includes the following feat
   - incl. faceting for linked Places, Actors, Timespans etc.
 - Access to the underlying data for research/reuse purposes (SPARQL queries) 
 
-Upcoming versions of the gta Research Portal will deliver additional features including: 
+
+The upcoming versions of the gta Research Portal will include the additional features (Public Version 1.4, planned October/November 2022):
+
+- Additional relattions between Archival Holdings and Persons, Groups, Places (planned v1.40) </li> 
+- Updates Version of the BuiltWork and Project Data (v1.4.0) 
+- Additional Archival Object Data (v1.4.0)
 - Enhanced alignment between Archival Objects and Digital Objects 
 - Enhanced linking to internal and external reference data 
+- Image Similarity Search
+
 
 
 ## Published Data 
