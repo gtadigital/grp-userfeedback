@@ -17,9 +17,9 @@ The current Version 1.3.5 of the gta Research Portal includes the following feat
 - Display of individual records
   - incl. full-screen view of digital images (where available)
   - incl. links to digital objects, reference data, external identifiers etc.    
-  - Incl. visual representation of cataloguing data (Ontodia)
+  - incl. visual data exploration and representation (Ontodia)
 - Semantic Search for Archival Collections, Documents, Groups, Persons, Places
-  - Incl. faceting for more complex queries
+  - incl. faceting for linked Places, Actors, Timespans etc.
 - Access to the underlying data for research/reuse purposes (SPARQL queries) 
 
 Upcoming versions of the gta Research Portal will deliver additional features including: 
@@ -30,13 +30,15 @@ Upcoming versions of the gta Research Portal will deliver additional features in
 ## Published Data 
 The currently published Data Version (1.3) from the gta Archives include: 
 - 107'000 Archival Objects (representing approx. 80% of the total holdings)
+  - including updated links to Persons, Groups, Places
+- 112'000 Digital Assets
+  - with updated IIIF-Service to deliver pyramidal TIFFs for better scalability 
 - 20’500 BuiltWorks and Projects 
 - 39’000 Persons and Groups (incl. Institutions, Legal Entities etc.)
   - including Long From Biographic Information (BSA Project)
 - 14’000 Places  
   - including updated links to persons, Groups, Archival Objects
-- 112'000 Digital Assets
-  - with updated IIIF-Service to deliver pyramidal TIFFs for better scalability 
+
 
 
 
