@@ -89,8 +89,8 @@ Being updated frequently with updated content from the gta Archives Collection S
 
 ## Roadmap
 The gta Research Portal will undergo periodical updates to load newly generated/edited daat from the gta Archives (and othersources, where needed). New and additinal data are planned be be released monthly. The durrent release roadmap is: 
-- Version 1.4 (October 2022), updated Built Work Data and Frontend
-- Version 1.5 (November/December 2022), additional holding data (reaching 100% coverage)
+- Version 1.4 (November 2022), updated Built Work Data and Frontend
+- Version 1.5 (December 2022), additional holding data (reaching 100% coverage)
 
 ## How to send feedback?
 The preferred way to contribute is to send us feedback using our [Issue Tracker](https://github.com/gtadigital/grp-userfeedback/issues). In order to contribute you will need to login or to [signup](https://github.com/signup) for a personal GitHUb Account (free). Another option to send us your feedback by mail to both Thomas Hänsli and Elisabet Jönsson Steiner.  
