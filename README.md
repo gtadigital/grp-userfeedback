@@ -1,8 +1,8 @@
 # gta Research Portal | User Feedback and Testing Scenarios
 Test Window of October 1st – 15th, 2022
 
-## New: Instruction Videos
-Please see also the [demo videos](https://github.com/gtadigital/grp-userfeedback/wiki) on ho to use the research portal
+## New: Documentation
+Please see also the [instruction and documentation videos](https://github.com/gtadigital/grp-userfeedback/wiki/User-Guides-and-Documentation) on how to use the gta Research Portal. 
 
 
 
